@@ -7,6 +7,7 @@ Available only through the authorised credentials (token), as it uses the specia
 Available without authorised credentials, uses open-access API (mandatory).
 - **[Rewriting and harmonising input data](3_preprocessing.ipynb)**
 Preprocessing itself – reprojection, checking, rewriting raster files etc. (mandatory)
+- **[Calculating impedance edge effect](4_impedance.ipynb)**
 
 Detailed descriptions of each nested workflow are given at the beginnings of Jupyter Notebooks.
 
